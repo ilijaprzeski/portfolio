@@ -10,9 +10,6 @@ I'm an enthusiastic & talented team player and am also a deep creative thinker f
 
 I am standing at the edge of technologies and working with the most famous technologies like React Native, Ionic, Flutter, Swift Java etc. Being a kind of faster learner, I'm always hungry to learn new concepts and edge technologies and always strive to implement the best practices in the features.
 
-
-## Portfolio
-
 Create to Learn | Connected North | Quest | MTB Record & Submit | Lens Engage
 
 
