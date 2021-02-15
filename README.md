@@ -10,10 +10,9 @@ I'm an enthusiastic & talented team player and am also a deep creative thinker f
 
 I am standing at the edge of technologies and working with the most famous technologies like React Native, Ionic, Flutter, Swift Java etc. Being a kind of faster learner, I'm always hungry to learn new concepts and edge technologies and always strive to implement the best practices in the features.
 
-Create to Learn | Connected North | Quest | Deliveroo
-
 <img src="./images/createtolearn/logo.png" width="200" height="200"/> | <img src="./images/connectednorth/logo.png" width="200" height="200"/> | <img src="./images/quest/logo.png" width="200" height="200"/> | <img src="./images/deliveroo/logo.png" width="200" height="200"/>
-
+------ | ------ | ------ | ------
+[Create to Learn](./createtolearn.md) | [Connected North](connectednorth.md) | [Quest](quest.md) | [Deliveroo](deliveroo.md)
 
 ## Experienced skills
 
