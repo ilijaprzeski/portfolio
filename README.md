@@ -13,8 +13,8 @@ I am standing at the edge of technologies and working with the most famous techn
 <img src="./images/createtolearn/logo.png" width="200" height="200"/> | <img src="./images/connectednorth/logo.png" width="200" height="200"/> | <img src="./images/quest/logo.png" width="200" height="200"/> | <img src="./images/deliveroo/logo.png" width="200" height="200"/>
 ------ | ------ | ------ | ------
 [Create to Learn](createtolearn.md) | [Connected North](connectednorth.md) | [Quest](quest.md) | [Deliveroo](deliveroo.md)
-<img src="./images/expensify/logo.png" width="200" height="200"/> | - | - | - |
-[Expensify](expensify.md) | - | - | - |
+<img src="./images/expensify/logo.png" width="200" height="200"/> |  | | |
+[Expensify](expensify.md) | | | |
 
 
 ## Experienced skills
