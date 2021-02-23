@@ -21,6 +21,7 @@ I am standing at the edge of technologies and working with the most famous techn
 
 - Hybrid Application Development: React Native, Ionic(Cordova & Capacitor), Flutter
 - Native Application Development: Java/Kotlin, Swfit
+- Desktop Application Development: Electron, React Native, C#
 - WebRTC: Jitsi, Zoom, Janus...
 - Cloud Service: Firebase, AWS, Alibaba, Airtable, ...
 - Database: SQLITE, Realm, PostgreSQL, MySQL, MongoDB
