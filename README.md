@@ -14,7 +14,7 @@ I am standing at the edge of technologies and working with the most famous techn
 ------ | ------ | ------ | ------
 [Create to Learn](createtolearn.md) | [Connected North](connectednorth.md) | [Quest](quest.md) | [Deliveroo](deliveroo.md)
 ------ | ------ | ------ | ------
-<img src="./images/expenfisy/logo.png" width="200" height="200"/> | - | - | - |
+<img src="./images/expensify/logo.png" width="200" height="200"/> | - | - | - |
 ------ | ------ | ------ | ------
 [Expensify](expensify.md) | - | - | - |
 
